@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "637114604446",
+    "project_id": "fer-app-cd5e2",
+    "storage_bucket": "fer-app-cd5e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637114604446:android:1d5b8df9ae0c4d3868148f",
+        "android_client_info": {
+          "package_name": "FER.APP77"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637114604446-rqlrom7vvf7up7oeeb07iqnhesjqv6lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZkRdUs-OsZyr5BpdEuQ6Vx8nZXPUhyxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637114604446-rqlrom7vvf7up7oeeb07iqnhesjqv6lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637114604446:android:9b74ee2a7a0efb7468148f",
+        "android_client_info": {
+          "package_name": "com.example.ferapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637114604446-rqlrom7vvf7up7oeeb07iqnhesjqv6lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZkRdUs-OsZyr5BpdEuQ6Vx8nZXPUhyxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637114604446-rqlrom7vvf7up7oeeb07iqnhesjqv6lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
