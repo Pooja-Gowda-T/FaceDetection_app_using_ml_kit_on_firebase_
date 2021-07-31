@@ -7,5 +7,7 @@
 
 * Firebase Machine Learning KIT provides a range of pre-trained models that can be used in the iOS and Android apps. 
 * ML Kit’s Face Detection API which will identify faces in photos.
-*
+* Backend- Firebase
+* Platform used-Android Studio
+* Language used-Java
 
